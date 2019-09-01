@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
         - name: client
-          imaage: khteo/multi-client
+          image: khteo/multi-client
           ports:
             - containerPort: 3000
